@@ -2,7 +2,7 @@
 layout: post
 title: How to Participate
 subtitle: Break down of the event framework and rules. 
-cover-img: /assets/img/BTLCPLogo.PNG
+cover-img: /assets/img/0821171513a.jpg
 thumbnail-img: /assets/img/BTLCPLogo.PNG
 share-img: /assets/img/BTLCPLogo.PNG
 tags: [books, test]
