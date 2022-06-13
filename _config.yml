@@ -14,10 +14,10 @@ author: Talas
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Welcome to the Beartooth Least Cost Path Ultra. 
+  About Me: Welcome to the Beartooth Least Cost Path Ultra. 
 
   The objective is to travel the most efficient path between the top 10 highest points of the Beartooth Mountain Range in Montana.
-"
+
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -34,7 +34,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+ title-img: /assets/img/BTLCPLogo.PNG
 
 
 # --- Footer social media links --- #
