@@ -1,17 +1,55 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: How to Participate
+subtitle: Break down of the event framework and rules. 
+cover-img: /assets/img/BTLCPLogo.PNG
+thumbnail-img: /assets/img/BTLCPLogo.PNG
+share-img: /assets/img/BTLCPLogo.PNG
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+How to enter into the competition: 
+Upload a file of your route. This can be through any number of GPS tracking services including:
+Strava
+OnX
+Garmin
+Suunto
+Apple Watch
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Upload a Set of Points . 
+10 for each summit
+2 for start and finish locations
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Include a photo at each summit, start and finish location.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Any other data recorded during or in preparation for the ultra. Including but not limited to:
+Additional points and features recorded along the way
+Heart Rate
+Photos
+Video
+Training Data
+Gear List
+Social Media
+Mapping
+Geology
+Diet
+Strategy
+Writing / Blogs
+Weather
+
+Submit this information either by email to email@email or fill out our online form (TBD) by September 22nd at 7:03 Pm
+
+
+
+
+
+Main Events:
+
+Least Cost Path ($500)
+This will be awarded to the submission with the lowest recorded mileage and vertical. Time is irrelevant in this category.
+Fastest Known Time ($500)
+This will be awarded to the submission with the fastest recorded time. 
+Best Data ($500)
+This will be awarded to the submission with the best additional data recorded. 
+Best Segment ($500)
+We understand that this course may not be ‘on-siteable’ and may require scouting missions, so this category will be awarded to the best segment recorded which does not complete the entire route.
