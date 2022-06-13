@@ -6,15 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Beartooth Least Cost Path
 
 # Your name to show in the footer
-author: Some Person
+author: Ian Dodds
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Welcome to the Beartooth Least Cost Path Ultra. 
+
+  The objective is to travel the most efficient path between the top 10 highest points of the Beartooth Mountain Range in Montana.
+"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
