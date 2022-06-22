@@ -33,7 +33,7 @@ Beartooth Mountain 12,351
 
 Enter your email by clicking the sign up tab in the top right corner, then click the Sign Up HERE link. 
 
-Once you have completed your attempt, submit a GPS track to beartoothleastcostpath@gmail.com no later than September 22nd at 7:03 PM. 
+Once you have completed your attempt, submit a GPS track to beartoothleastcostpath@gmail.com no later than September 22nd 2022 at 7:03 PM. 
 
 Include the word SUBMISSION and YOUR NAME in the subject line.
 
@@ -44,6 +44,8 @@ The first 10 tracks to be submitted will receive $100!
 *Incomplete tracks will still be considered*
 
 An additional $100 will be awarded to the least cost path. The cost functions are defined as distance and verticle. So the winner will be the one who submits the track with the lowest recorded distance and vert. 
+
+Winners will be announced sometime in October 2022. 
 
 Feel free to reach out via email with any questions or sugestions beartoothleastcostpath@gmail.com
 
