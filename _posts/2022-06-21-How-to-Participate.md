@@ -33,9 +33,7 @@ Beartooth Mountain 12,351
 
 How to Participate
  
-Enter your email by clicking the sign up tab in the top right corner, then click the Sign Up HERE link.
-
-Sign Up [HERE](https://mailchi.mp/fddcbc82ded0/beartooth-least-cost-path-ultra)
+Enter your email by clicking the sign up tab in the top right corner, then click [HERE](https://mailchi.mp/fddcbc82ded0/beartooth-least-cost-path-ultra)
 
 Complete the course on your own time, it is approximately 50 miles and 30,000 verticle feet.
 
