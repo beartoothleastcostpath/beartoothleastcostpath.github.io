@@ -49,5 +49,5 @@ An additional $100 will be awarded to the least cost path. The cost functions ar
 
 Winners will be announced sometime in October 2022. 
 
-Feel free to reach out via email with any questions or sugestions beartoothleastcostpath@gmail.com
+Feel free to reach out via email with any questions or sugestions, click the mail icon below. 
 
