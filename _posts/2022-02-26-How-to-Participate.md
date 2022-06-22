@@ -1,55 +1,41 @@
 ---
 layout: post
 title: How to Participate
-subtitle: First 10 Submissions Recieve $100. 
+subtitle: First 10 Submissions Recieve $100! 
 cover-img: /assets/img/0821171513a.jpg
 thumbnail-img: /assets/img/BTLCPLogo.PNG
 share-img: /assets/img/BTLCPLogo.PNG
 tags: [mountain, ultra]
 ---
 
-How to enter into the competition: 
-Upload a file of your route. This can be through any number of GPS tracking services including:
-Strava
-OnX
-Garmin
-Suunto
-Apple Watch
+This is a FREE Event. 
 
-Upload a Set of Points . 
-10 for each summit
-2 for start and finish locations
+The objective is to travel the most efficient path between the 10 highest points in the Beartooth Mountains of Montana. 
 
-Include a photo at each summit, start and finish location.
+Granite Peak 12,799
+Mount Wood 12,649
+Castle Mountain 12,612
+Whitetail Peak 12,551
+Castle Rock Spire 12,540
+Silver Run Peak 12,500
+Tempest Mountain 12,469
+Mount Peal 12,409
+Castle Rock Mountain 12,408 
+Beartooth Mountain 12,351
 
-Any other data recorded during or in preparation for the ultra. Including but not limited to:
-Additional points and features recorded along the way
-Heart Rate
-Photos
-Video
-Training Data
-Gear List
-Social Media
-Mapping
-Geology
-Diet
-Strategy
-Writing / Blogs
-Weather
+Enter your email by clicking the sign up tab in the top right corner, then click the Sign Up HERE link. 
 
-Submit this information either by email to email@email or fill out our online form (TBD) by September 22nd at 7:03 Pm
+Once you have completed your attempt, submit a GPS track to beartoothleastcostpath@gmail.com no later than September 22nd at 7:03 PM. 
 
+Include the word SUBMISSION and YOUR NAME in the subject line.
 
+The track can be recorded by any means and submitted in any format. 
 
+The first 10 tracks to be submitted will receive $100!
 
+*Incomplete tracks will still be considered*
 
-Main Events:
+An additional $100 will be awarded to the least cost path. The cost functions are defined as distance and verticle. So the winner will be the one who submits the track with the lowest recorded distance and vert. 
 
-Least Cost Path ($500)
-This will be awarded to the submission with the lowest recorded mileage and vertical. Time is irrelevant in this category.
-Fastest Known Time ($500)
-This will be awarded to the submission with the fastest recorded time. 
-Best Data ($500)
-This will be awarded to the submission with the best additional data recorded. 
-Best Segment ($500)
-We understand that this course may not be ‘on-siteable’ and may require scouting missions, so this category will be awarded to the best segment recorded which does not complete the entire route.
+Feel free to reach out via email with any questions or sugestions beartoothleastcostpath@gmail.com
+
