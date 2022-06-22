@@ -31,6 +31,8 @@ Castle Rock Mountain 12,408
 
 Beartooth Mountain 12,351
 
+How to Participate
+
 Enter your email by clicking the sign up tab in the top right corner, then click the Sign Up HERE link. 
 
 Once you have completed your attempt, submit a GPS track to beartoothleastcostpath@gmail.com no later than September 22nd 2022 at 7:03 PM. 
