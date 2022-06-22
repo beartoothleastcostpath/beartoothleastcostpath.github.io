@@ -9,18 +9,26 @@ tags: [mountain, ultra]
 ---
 
 This is a FREE Event. 
-
 The objective is to travel the most efficient path between the 10 highest points in the Beartooth Mountains of Montana. 
 
 Granite Peak 12,799
+
 Mount Wood 12,649
+
 Castle Mountain 12,612
+
 Whitetail Peak 12,551
+
 Castle Rock Spire 12,540
+
 Silver Run Peak 12,500
+
 Tempest Mountain 12,469
+
 Mount Peal 12,409
+
 Castle Rock Mountain 12,408 
+
 Beartooth Mountain 12,351
 
 Enter your email by clicking the sign up tab in the top right corner, then click the Sign Up HERE link. 
