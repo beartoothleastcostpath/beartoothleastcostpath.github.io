@@ -43,13 +43,8 @@ Include the word SUBMISSION and YOUR NAME in the subject line.
 
 The track can be recorded by any means and submitted in any format. 
 
-The first 10 tracks to be submitted will receive $100!
 
-*Incomplete tracks will still be considered*
-
-An additional $100 will be awarded to the least cost path. The cost functions are defined as distance and verticle. So the winner will be the one who submits the track with the lowest recorded distance and vert. 
-
-Winners will be announced sometime in October 2022. 
+Winners will be announced sometime in October 2023. 
 
 Feel free to reach out via email with any questions or sugestions, click the mail icon below. 
 
