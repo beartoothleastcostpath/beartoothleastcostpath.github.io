@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Participate
-subtitle: First 10 Submissions Recieve $100! 
+subtitle: No Physical Requirement  
 cover-img: /assets/img/0821171513a.jpg
 thumbnail-img: /assets/img/BTLCPLogo.PNG
 share-img: /assets/img/BTLCPLogo.PNG
